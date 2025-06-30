@@ -73,6 +73,8 @@ Here’s a visual layout of the haunted house and where each amulet can be found
 
 - Convert to GUI with Tkinter or Pygame
 
+-- Contributions welcome! Feel free to fork and improve.--
+
 ___
 
 ## 🎉 Credits 
